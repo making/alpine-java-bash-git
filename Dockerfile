@@ -11,4 +11,5 @@ RUN apk add --update \
     openssh \
     zip \
     curl \
-    ruby
+    ruby \
+    sed
